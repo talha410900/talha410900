@@ -28,11 +28,11 @@ Full-stack engineer with **7+ years** shipping production web applications — *
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
+| **[chainfuelz](https://talhaamir.com/work/chainfuelz)** | No-code Web3 platform — branded wallets, multi-model AI tooling (GPT · Gemini · Claude), and token ecosystems, built 0 → live | Next.js, Node.js, MongoDB, Thirdweb, Solana |
 | **[Dragon Candy](https://dragoncandy.io)** | AI-powered marketplace matching restaurants with content creators — LLM-generated campaign briefs from a URL, Stripe payments, same-day turnaround | React, TypeScript, Supabase, Stripe, OpenAI |
-| **[SocialVeri5](https://socialveri5.com)** | OTP-verification & social-accounts marketplace with a wallet system and documented developer REST API — trusted by 10,000+ users | React, TypeScript, Python, FastAPI, PostgreSQL |
 | **[Ofellio](https://ofellio.com)** | Location-aware event discovery for the reading community — one searchable feed for book clubs, author talks, and literary events | React, Node.js, Express, TypeScript, MongoDB |
 | **[Rentyx](https://www.rentyx.sk)** | Construction-equipment rental catalog for Bratislava with a quote-first flow and CMS-managed inventory | Next.js, TypeScript, Tailwind, Sanity |
-| **chainfuelz** | No-code Web3 platform — branded wallets, multi-model AI tooling (GPT · Gemini · Claude), and token ecosystems, built 0 → live | Next.js, Node.js, MongoDB, Thirdweb, Solana |
+| **[SocialVeri5](https://socialveri5.com)** | OTP-verification & social-accounts marketplace with a wallet system and documented developer REST API — trusted by 10,000+ users | React, TypeScript, Python, FastAPI, PostgreSQL |
 
 Full case studies at **[talhaamir.com/work](https://talhaamir.com/work)**.
 
@@ -81,13 +81,6 @@ Full case studies at **[talhaamir.com/work](https://talhaamir.com/work)**.
   <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/Thirdweb-000000?style=flat-square" alt="Thirdweb" />
 </p>
-
-## GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talha410900&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha410900&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
-</div>
 
 ---
 
