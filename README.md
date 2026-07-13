@@ -30,8 +30,9 @@ Full-stack engineer with **7+ years** shipping production web applications — *
 | :--- | :--- | :--- |
 | **[chainfuelz](https://talhaamir.com/work/chainfuelz)** | No-code Web3 platform — branded wallets, multi-model AI tooling (GPT · Gemini · Claude), and token ecosystems, built 0 → live | Next.js, Node.js, MongoDB, Thirdweb, Solana |
 | **[Dragon Candy](https://dragoncandy.io)** | AI-powered marketplace matching restaurants with content creators — LLM-generated campaign briefs from a URL, Stripe payments, same-day turnaround | React, TypeScript, Supabase, Stripe, OpenAI |
-| **[Ofellio](https://ofellio.com)** | Location-aware event discovery for the reading community — one searchable feed for book clubs, author talks, and literary events | React, Node.js, Express, TypeScript, MongoDB |
+| **[TravelCanvas](https://travelcanvas.nl)** | Personalized travel-poster studio — custom editor with photo upload, auto location detection, route/map layouts & live print preview; 10,000+ posters created | React, TypeScript, Convex, Shopify |
 | **[Rentyx](https://www.rentyx.sk)** | Construction-equipment rental catalog for Bratislava with a quote-first flow and CMS-managed inventory | Next.js, TypeScript, Tailwind, Sanity |
+| **[Ofellio](https://ofellio.com)** | Location-aware event discovery for the reading community — one searchable feed for book clubs, author talks, and literary events | React, Node.js, Express, TypeScript, MongoDB |
 | **[SocialVeri5](https://socialveri5.com)** | OTP-verification & social-accounts marketplace with a wallet system and documented developer REST API — trusted by 10,000+ users | React, TypeScript, Python, FastAPI, PostgreSQL |
 
 Full case studies at **[talhaamir.com/work](https://talhaamir.com/work)**.
